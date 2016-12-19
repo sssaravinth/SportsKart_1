@@ -6,9 +6,11 @@ SportsKart is a E-Commerce project were we can purchase Sports Products and Acce
   - CSS
   - Bootstrap
   - AngularJS
+  
 ### Backend Technology
   - Spring Framework
   - Hibernate
   - Apache Tomcat Server
-  ### Middleware Technology
+ 
+### Middleware Technology
   - H2 Console
